@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prachi Choudhary</h1>
-- 📫 How to reach me **prachic21@iitk.ac.in**
+
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/prachi-choudhary-253303276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi-choudhary" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prachi_s101?igsh=Z2sxbmZ6cWU2Y3N0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prachi_s21" height="30" width="40" /></a>
 <p align="left">
 </p>
 
